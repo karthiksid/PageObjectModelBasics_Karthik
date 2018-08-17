@@ -1,11 +1,7 @@
-16/08/2018 12:51:13 devpinoyLogger Config file loaded !!!
-16/08/2018 12:51:13 devpinoyLogger OR file loaded !!!
-16/08/2018 12:51:24 devpinoyLogger Navigated to : http://www.zoho.com/
-16/08/2018 12:51:25 devpinoyLogger Clicking on an Element : doLogin_XPATH
-16/08/2018 12:51:35 devpinoyLogger Typing in an Element : username_XPATH entered value as : karthiksiddharth7@gmail.com
-16/08/2018 12:51:35 devpinoyLogger Typing in an Element : password_XPATH entered value as : karthikray
-16/08/2018 12:51:35 devpinoyLogger Clicking on an Element : signbtn_XPATH
-16/08/2018 12:52:14 devpinoyLogger Clicking on an Element : clickOnCRM_XPATH
-16/08/2018 12:52:15 devpinoyLogger Clicking on an Element : gotoAccounts_XPATH
-16/08/2018 12:52:16 devpinoyLogger Clicking on an Element : CRM-CreateAccount_CSS
-16/08/2018 12:52:16 devpinoyLogger Typing in an Element : CRM-accountcreation_CSS entered value as : karthik
+17/08/2018 11:19:59 devpinoyLogger Config file loaded !!!
+17/08/2018 11:19:59 devpinoyLogger OR file loaded !!!
+17/08/2018 11:20:19 devpinoyLogger Navigated to : http://www.zoho.com/
+17/08/2018 11:20:20 devpinoyLogger Clicking on an Element : doLogin_XPATH
+17/08/2018 11:20:23 devpinoyLogger Typing in an Element : username_XPATH entered value as : karthiksiddharth7@gmail.com
+17/08/2018 11:20:24 devpinoyLogger Typing in an Element : password_XPATH entered value as : karthikray
+17/08/2018 11:20:24 devpinoyLogger Clicking on an Element : signbtn_XPATH
